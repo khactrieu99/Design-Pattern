@@ -1,0 +1,13 @@
+structural/flyweight/Person.java
+ structural.flyweight.Person
+structural/flyweight/Family.java
+ structural.flyweight.Family
+structural/flyweight/FamilyFactory.java
+ structural.flyweight.FamilyFactory
+structural/flyweight/Main.java
+ structural.flyweight.Main
+creational/singleton/Database.java
+ creational.singleton.Database
+ creational.singleton.Database$SingletonHolder
+creational/singleton/Main.java
+ creational.singleton.Main
