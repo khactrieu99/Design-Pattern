@@ -11,3 +11,13 @@ creational/singleton/Database.java
  creational.singleton.Database$SingletonHolder
 creational/singleton/Main.java
  creational.singleton.Main
+structural/composite/House.java
+ structural.composite.House
+creational/builder/Main.java
+ creational.builder.Main
+structural/composite/Property.java
+ structural.composite.Property
+structural/composite/Main.java
+ structural.composite.Main
+structural/composite/ResidentialArea.java
+ structural.composite.ResidentialArea
