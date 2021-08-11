@@ -1,4 +1,8 @@
-package structural.bridge;/**
+package structural.bridge;
+
+/**
  * @author trieutk
- */public class Color {
+ */
+public interface Color {
+    String getColor();
 }

@@ -13,11 +13,91 @@ creational/singleton/Main.java
  creational.singleton.Main
 structural/composite/House.java
  structural.composite.House
-creational/builder/Main.java
- creational.builder.Main
+structural/composite/ResidentialArea.java
+ structural.composite.ResidentialArea
 structural/composite/Property.java
  structural.composite.Property
 structural/composite/Main.java
  structural.composite.Main
-structural/composite/ResidentialArea.java
- structural.composite.ResidentialArea
+structural/bridge/Green.java
+ structural.bridge.Green
+creational/prototype/Cell.java
+ creational.prototype.Cell
+creational/factorymethod/BankFactory.java
+ creational.factorymethod.BankFactory
+creational/abstractfactory/Factory.java
+ creational.abstractfactory.Factory
+creational/abstractfactory/PlasticChair.java
+ creational.abstractfactory.PlasticChair
+structural/facade/AccountService.java
+ structural.facade.AccountService
+creational/builder/Main.java
+ creational.builder.Main
+creational/abstractfactory/Chair.java
+ creational.abstractfactory.Chair
+creational/abstractfactory/PlasticTable.java
+ creational.abstractfactory.PlasticTable
+creational/factorymethod/Main.java
+ creational.factorymethod.Main
+structural/bridge/Main.java
+ structural.bridge.Main
+structural/facade/ShopFacade.java
+ structural.facade.ShopFacade
+creational/abstractfactory/WoodTable.java
+ creational.abstractfactory.WoodTable
+creational/prototype/CellFactory.java
+ creational.prototype.CellFactory
+creational/factorymethod/Bank.java
+ creational.factorymethod.Bank
+structural/adapter/Translator.java
+ structural.adapter.Translator
+creational/prototype/Main.java
+ creational.prototype.Main
+creational/abstractfactory/PlasticFactory.java
+ creational.abstractfactory.PlasticFactory
+structural/adapter/LanguageAdapter.java
+ structural.adapter.LanguageAdapter
+structural/facade/Main.java
+ structural.facade.Main
+structural/bridge/Shape.java
+ structural.bridge.Shape
+structural/bridge/Color.java
+ structural.bridge.Color
+creational/abstractfactory/Table.java
+ creational.abstractfactory.Table
+creational/abstractfactory/WoodChair.java
+ creational.abstractfactory.WoodChair
+creational/factorymethod/VietcomBank.java
+ creational.factorymethod.VietcomBank
+structural/facade/SmsService.java
+ structural.facade.SmsService
+creational/abstractfactory/Main.java
+ creational.abstractfactory.Main
+structural/adapter/Vietnamese.java
+ structural.adapter.Vietnamese
+structural/adapter/Main.java
+ structural.adapter.Main
+structural/facade/EmailService.java
+ structural.facade.EmailService
+structural/adapter/Japanese.java
+ structural.adapter.Japanese
+structural/facade/PaymentService.java
+ structural.facade.PaymentService
+structural/bridge/Blue.java
+ structural.bridge.Blue
+creational/abstractfactory/FurnitureFactory.java
+ creational.abstractfactory.FurnitureFactory
+ creational.abstractfactory.FurnitureFactory$1
+creational/builder/Game.java
+ creational.builder.Game
+ creational.builder.Game$GameBuilder
+structural/bridge/Rectangle.java
+ structural.bridge.Rectangle
+creational/abstractfactory/ProductType.java
+ creational.abstractfactory.ProductType
+structural/bridge/Circle.java
+ structural.bridge.Circle
+creational/factorymethod/VPBank.java
+ creational.factorymethod.VPBank
+creational/abstractfactory/WoodFactory.java
+ creational.abstractfactory.WoodFactory
