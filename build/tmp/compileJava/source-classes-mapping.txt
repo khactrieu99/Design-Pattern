@@ -101,3 +101,15 @@ creational/factorymethod/VPBank.java
  creational.factorymethod.VPBank
 creational/abstractfactory/WoodFactory.java
  creational.abstractfactory.WoodFactory
+structural/decorator/NormalEmployee.java
+ structural.decorator.NormalEmployee
+structural/decorator/EmployeeDecorator.java
+ structural.decorator.EmployeeDecorator
+structural/decorator/Main.java
+ structural.decorator.Main
+structural/decorator/EmmployeeInterface.java
+ structural.decorator.EmmployeeInterface
+structural/decorator/Manager.java
+ structural.decorator.Manager
+structural/decorator/Leader.java
+ structural.decorator.Leader
