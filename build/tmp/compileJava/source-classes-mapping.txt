@@ -113,3 +113,11 @@ structural/decorator/Manager.java
  structural.decorator.Manager
 structural/decorator/Leader.java
  structural.decorator.Leader
+structural/proxy/MysqlDB.java
+ structural.proxy.MysqlDB
+structural/proxy/Main.java
+ structural.proxy.Main
+structural/proxy/Hibernate.java
+ structural.proxy.Hibernate
+structural/proxy/Database.java
+ structural.proxy.Database
