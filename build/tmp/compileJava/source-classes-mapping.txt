@@ -148,3 +148,13 @@ behavior/memento/ChessBoard.java
  behavior.memento.ChessBoard$1
 behavior/memento/Main.java
  behavior.memento.Main
+behavior/strategy/Algorithm1.java
+ behavior.strategy.Algorithm1
+behavior/strategy/AlgorithmBox.java
+ behavior.strategy.AlgorithmBox
+behavior/strategy/Main.java
+ behavior.strategy.Main
+behavior/strategy/Algorithm.java
+ behavior.strategy.Algorithm
+behavior/strategy/Algorithm2.java
+ behavior.strategy.Algorithm2
