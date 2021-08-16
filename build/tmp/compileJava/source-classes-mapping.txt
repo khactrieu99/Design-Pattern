@@ -121,3 +121,30 @@ structural/proxy/Hibernate.java
  structural.proxy.Hibernate
 structural/proxy/Database.java
  structural.proxy.Database
+behavior/memento/Chess.java
+ behavior.memento.Chess
+behavior/state/DeletedState.java
+ behavior.state.DeletedState
+behavior/memento/Direction.java
+ behavior.memento.Direction
+behavior/memento/Move.java
+ behavior.memento.Move
+behavior/memento/CareTaker.java
+ behavior.memento.CareTaker
+behavior/state/ProgramObject.java
+ behavior.state.ProgramObject
+behavior/memento/Memento.java
+ behavior.memento.Memento
+behavior/state/NewState.java
+ behavior.state.NewState
+behavior/state/State.java
+ behavior.state.State
+behavior/state/Main.java
+ behavior.state.Main
+behavior/state/DraftState.java
+ behavior.state.DraftState
+behavior/memento/ChessBoard.java
+ behavior.memento.ChessBoard
+ behavior.memento.ChessBoard$1
+behavior/memento/Main.java
+ behavior.memento.Main
