@@ -182,3 +182,13 @@ behavior/visitor/NormalBook.java
  behavior.visitor.NormalBook
 behavior/visitor/ProgrammingBook.java
  behavior.visitor.ProgrammingBook
+behavior/observer/SendMessageSubcriber.java
+ behavior.observer.SendMessageSubcriber
+behavior/observer/MessageQueue.java
+ behavior.observer.MessageQueue
+behavior/observer/Subcriber.java
+ behavior.observer.Subcriber
+behavior/observer/Main.java
+ behavior.observer.Main
+behavior/observer/ErrorSubcriber.java
+ behavior.observer.ErrorSubcriber
