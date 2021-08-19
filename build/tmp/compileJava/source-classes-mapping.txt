@@ -158,3 +158,27 @@ behavior/strategy/Algorithm.java
  behavior.strategy.Algorithm
 behavior/strategy/Algorithm2.java
  behavior.strategy.Algorithm2
+behavior/visitor/Main.java
+ behavior.visitor.Main
+behavior/visitor/VisitorImpl.java
+ behavior.visitor.VisitorImpl
+behavior/templatemethod/Main.java
+ behavior.templatemethod.Main
+behavior/visitor/Visitor.java
+ behavior.visitor.Visitor
+behavior/visitor/Book.java
+ behavior.visitor.Book
+behavior/visitor/CppBook.java
+ behavior.visitor.CppBook
+behavior/templatemethod/Orc.java
+ behavior.templatemethod.Orc
+behavior/visitor/JavaBook.java
+ behavior.visitor.JavaBook
+behavior/templatemethod/GreenOrc.java
+ behavior.templatemethod.GreenOrc
+behavior/templatemethod/RedOrc.java
+ behavior.templatemethod.RedOrc
+behavior/visitor/NormalBook.java
+ behavior.visitor.NormalBook
+behavior/visitor/ProgrammingBook.java
+ behavior.visitor.ProgrammingBook
