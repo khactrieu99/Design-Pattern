@@ -204,18 +204,28 @@ creational/abstractfactory/ProductType.java
  creational.abstractfactory.ProductType
 behavior/memento/Chess.java
  behavior.memento.Chess
-behavior/iterator/FacebookIterator.java
- behavior.iterator.FacebookIterator
-behavior/iterator/SocialNetwork.java
- behavior.iterator.SocialNetwork
-behavior/iterator/Main.java
- behavior.iterator.Main
-behavior/iterator/Relationship.java
- behavior.iterator.Relationship
 behavior/iterator/DataCenter.java
  behavior.iterator.DataCenter
  behavior.iterator.DataCenter$SingletonHolder
+behavior/iterator/SocialNetwork.java
+ behavior.iterator.SocialNetwork
 behavior/iterator/ProfileIterator.java
  behavior.iterator.ProfileIterator
+behavior/iterator/Relationship.java
+ behavior.iterator.Relationship
+behavior/iterator/FacebookIterator.java
+ behavior.iterator.FacebookIterator
 behavior/iterator/Facebook.java
  behavior.iterator.Facebook
+behavior/iterator/Main.java
+ behavior.iterator.Main
+behavior/mediator/User.java
+ behavior.mediator.User
+behavior/mediator/UserInterface.java
+ behavior.mediator.UserInterface
+behavior/mediator/Main.java
+ behavior.mediator.Main
+behavior/mediator/Server.java
+ behavior.mediator.Server
+behavior/mediator/Mediator.java
+ behavior.mediator.Mediator
