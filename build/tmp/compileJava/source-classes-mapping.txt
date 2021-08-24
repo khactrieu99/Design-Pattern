@@ -229,3 +229,21 @@ behavior/mediator/Server.java
  behavior.mediator.Server
 behavior/mediator/Mediator.java
  behavior.mediator.Mediator
+behavior/command/RedoCommand.java
+ behavior.command.RedoCommand
+behavior/command/UndoCommand.java
+ behavior.command.UndoCommand
+behavior/command/Command.java
+ behavior.command.Command
+behavior/command/Document.java
+ behavior.command.Document
+behavior/command/Application.java
+ behavior.command.Application
+behavior/command/UndoButton.java
+ behavior.command.UndoButton
+behavior/command/Main.java
+ behavior.command.Main
+behavior/command/Element.java
+ behavior.command.Element
+behavior/command/RedoButton.java
+ behavior.command.RedoButton
